@@ -1,4 +1,4 @@
-﻿The Project Gutenberg eBook of The Love of Azalea, by Winnifred Eaton
+﻿The Project Gutenberg eBook of The Love of Azalea, by Onoto Watanna
 
 This eBook is for the use of anyone anywhere in the United States and
 most other parts of the world at no cost and with almost no restrictions
@@ -10,10 +10,10 @@ using this eBook.
 
 Title: The Love of Azalea
 
-Author: Winnifred Eaton
+Author: Onoto Watanna
         Gazo Foudji
 
-Release Date: April 14, 2021 [eBook #64861]
+Release Date: March 18, 2021 [eBook #64861]
 
 Language: English
 
@@ -129,7 +129,10 @@ Produced by: Mary Glenn Krause, Charlene Taylor, Barry Abrahamsen, and the
 ------------------------------------------------------------------------
 
 
-[Illustration]
+[Illustration:
+
+  Pagoda Ladies
+]
 
 
 ------------------------------------------------------------------------
@@ -571,9 +574,6 @@ understanding, if not assent, the marriage broker went on his way
 pensively toward the house of Matsuda Isami.
 
 
-[Illustration]
-
-
 ------------------------------------------------------------------------
 
 
@@ -968,9 +968,6 @@ household.”
 
 “Oh, I will promise that, easily,” said Azalea. “I will not even look at
 or speak to the man. Other things now occupy my insignificant head.”
-
-
-[Illustration]
 
 
 ------------------------------------------------------------------------
@@ -1838,9 +1835,6 @@ alone. That night she slept underneath his desk in the little study
 where he had worked, his large black bible the pillow for her head.
 
 
-[Illustration]
-
-
 ------------------------------------------------------------------------
 
 
@@ -2038,9 +2032,6 @@ when but one bit remains.”
 
 She burned more oil that night in the waiting room for him. Through the
 night the bright red light twinkled against his coming. But he came not.
-
-
-[Illustration]
 
 
 ------------------------------------------------------------------------
@@ -2606,9 +2597,6 @@ the child, and for his sake she would sell herself and become wife to
 Matsuda Isami.
 
 
-[Illustration]
-
-
 ------------------------------------------------------------------------
 
 
@@ -2817,9 +2805,6 @@ attempting to crush his hand in the opening.
 “Okido-sama!” he repeated thoughtfully, “Okido-sama, the Nakoda!”
 
 
-[Illustration]
-
-
 ------------------------------------------------------------------------
 
 
@@ -2982,9 +2967,6 @@ She was seized by the shoulders in a savage grip. Her very teeth smote
 together with the shock of his grasp.
 
 “You lie!” he cried. “You lie! Vile thing, you lie, I say!”
-
-
-[Illustration]
 
 
 ------------------------------------------------------------------------
@@ -3299,7 +3281,6 @@ arms, my wife, and it is enough.”
 Her voice was weak, but inexpressibly sweet.
 
 “It is enough,” she said.
-
 
 ------------------------------------------------------------------------
 
